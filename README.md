@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Attendance Markup With Face Recognition](https://github.com/RahulHash/Attendance-System)
 
-- 🌱 I’m currently learning **Competetive Programming, C++**
+- 🌱 I’m learning **Competetive Programming, C++**
 
 - 👨‍💻 All of my projects are available at [https://rrajputvikas.github.io/Project-1/](https://rrajputvikas.github.io/Project-1/)
 
