@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vikassinghrajput551@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s72yoiET6RAsnbnlLUzBJbNGe7CEu8Qy/view?usp=sharing](https://drive.google.com/file/d/1s72yoiET6RAsnbnlLUzBJbNGe7CEu8Qy/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1e3meZGVz8A2MaxhclKfR69RofPasNqMB/view?usp=sharing)
 
 - ⚡ Fun fact **I was 18 when I got my first job at Hamari Pathshaala, which helped me develop leadership, communication and listening skills.**
 
