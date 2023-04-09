@@ -9,13 +9,11 @@
 
 - 🌱 I’m learning **Competetive Programming, C++**
 
-- 👨‍💻 All of my projects are available at [https://rrajputvikas.github.io/Project-1/](https://rrajputvikas.github.io/Project-1/)
-
-- 💬 Ask me about **C,Python,SQL**
+- 💬 Ask me about **C,C++,DBMS,Data Structure**
 
 - 📫 How to reach me **vikassinghrajput551@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1e3meZGVz8A2MaxhclKfR69RofPasNqMB/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1e3meZGVz8A2MaxhclKfR69RofPasNqMB/view?usp=share_link)
 
 - ⚡ Fun fact **I was 18 when I got my first job at Hamari Pathshaala, which helped me develop leadership, communication and listening skills.**
 
