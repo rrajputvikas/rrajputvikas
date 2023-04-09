@@ -9,7 +9,7 @@
 
 - 🌱 I’m learning **Competetive Programming, C++**
 
-- 💬 Ask me about **C,C++,DBMS,Data Structure**
+- 💬 Ask me about **C, C++, DBMS, Data Structure**
 
 - 📫 How to reach me **vikassinghrajput551@gmail.com**
 
