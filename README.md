@@ -5,17 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrajputvikas&label=Profile%20views&color=0e75b6&style=flat" alt="rrajputvikas" /> </p>
 
-- 🔭 I’m working on [Attendance Markup With Face Recognition](https://github.com/RahulHash/Attendance-System)
-
-- 🌱 I’m learning **Competetive Programming, C++**
-
-- 💬 Ask me about **C, C++, DBMS, Data Structure**
+- 💬 Ask me about **C, C++, DBMS, Data Structure**...
 
 - 📫 How to reach me **vikassinghrajput551@gmail.com**
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1e3meZGVz8A2MaxhclKfR69RofPasNqMB/view?usp=share_link)
 
-- ⚡ Fun fact **I was 18 when I got my first job at Hamari Pathshaala, which helped me develop leadership, communication and listening skills.**
+- ⚡ **I was 18 when I got my first job at Hamari Pathshaala, which helped me develop leadership, communication and listening skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
